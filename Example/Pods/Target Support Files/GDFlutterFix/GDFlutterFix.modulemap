@@ -1,0 +1,6 @@
+framework module GDFlutterFix {
+  umbrella header "GDFlutterFix-umbrella.h"
+
+  export *
+  module * { export * }
+}

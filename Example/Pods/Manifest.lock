@@ -1,0 +1,27 @@
+PODS:
+  - GDFlutterFix (0.1.0):
+    - JRSwizzle
+  - JRSwizzle (1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - GDFlutterFix (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/cocoapods/specs.git:
+    - JRSwizzle
+    - Kiwi
+
+EXTERNAL SOURCES:
+  GDFlutterFix:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GDFlutterFix: 1da0abb194313bb666ad45fb584c49082fc260ed
+  JRSwizzle: dd5ead5d913a0f29e7f558200165849f006bb1e3
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: 785e8a351f751844936d412a7d841488961e344a
+
+COCOAPODS: 1.6.1
